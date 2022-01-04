@@ -1,0 +1,5 @@
+flask
+numpy
+opencv_python
+tensorflow-cpu
+gunicorn

@@ -1,1 +1,1 @@
-# img-classification-sys
+# Image Classification System Using CNN
